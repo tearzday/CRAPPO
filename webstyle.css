@@ -1,3 +1,9 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
 
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
 a {
@@ -1022,7 +1028,7 @@ header .nav__link-register:hover {
     font-size: 20px;
   }
   .crypto__item {
-    padding: 120px 30px 35px;
+    padding: 15px 45px 35px;
   }
   .crypto__item-description {
     font-size: 13px;
